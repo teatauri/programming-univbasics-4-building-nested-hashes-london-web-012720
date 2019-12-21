@@ -1,6 +1,8 @@
 def base_hash
-  mono {
-    
+  monopoly = {
+    :railroads => {
+      
+    }
   }
 	railroads
 end
