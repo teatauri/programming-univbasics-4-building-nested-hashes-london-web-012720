@@ -29,7 +29,8 @@ monopoly = {
             },
       :names => {
         :reading_railroad => {},
-        :pensyl
+        :pennsylvania_railroad => {},
+        :b_and_o_r
       },
   }
 }
